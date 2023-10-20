@@ -1,0 +1,24 @@
+{
+    "Action-1": {"price": 20, "percentage": 5},
+    "Action-2": {"price": 30, "percentage": 10},
+    "Action-3": {"price": 50, "percentage": 15},
+    "Action-4": {"price": 70, "percentage": 20},
+    "Action-5": {"price": 60, "percentage": 17},
+    "Action-6": {"price": 80, "percentage": 25},
+    "Action-7": {"price": 22, "percentage": 7},
+    "Action-8": {"price": 26, "percentage": 11},
+    "Action-9": {"price": 48, "percentage": 13},
+    "Action-10": {"price": 34, "percentage": 27},
+    "Action-11": {"price": 42, "percentage": 17},
+    "Action-12": {"price": 110, "percentage": 9},
+    "Action-13": {"price": 38, "percentage": 23},
+    "Action-14": {"price": 14, "percentage": 1},
+    "Action-15": {"price": 18, "percentage": 3},
+    "Action-16": {"price": 8, "percentage": 8},
+    "Action-17": {"price": 4, "percentage": 12},
+    "Action-18": {"price": 10, "percentage": 14},
+    "Action-19": {"price": 24, "percentage": 21},
+    "Action-20": {"price": 114, "percentage": 18}
+}
+
+
